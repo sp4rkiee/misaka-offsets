@@ -186,7 +186,7 @@ const struct dynamic_info kern_versions[] = {
         .kernelcache__vn_kqfilter = 0xfffffff007f226a0,
     },
 
-    // iPhone 13 pro, iOS 16.3.1
+    // iPhone 13 Pro, iOS 16.3.1
     {
         .kern_version = "Darwin Kernel Version 22.3.0: Wed Jan  4 21:25:19 PST 2023; root:xnu-8792.82.2~1/RELEASE_ARM64_T8110",
         .fileglob__fg_ops = 0x0,
